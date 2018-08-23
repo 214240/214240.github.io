@@ -1,0 +1,88 @@
+At the end of this Lesson:
+1. I can solve absolute value equations
+2. I can write, solve, graph, and write solutions to absolute value inequalities using interval notation
+absolute value: the distance a value is from zero
+distance can never be negative
+
+"definition" of absolute value: |x| = a means x=a OR x=-a
+
+Solving an absolute value equation 
+1) Solve for the absolute value
+2) Apply the definition of absolute value
+3) Solve the remaining equations
+4) Check for extraneous solutions
+
+Extraneous Solutions: Solutions that are found that do not satisfy the given equation.
+
+Remember to check by plugging in numbers to check
+Remember to pay attention to detail in algebra II
+Examples 
+1) What is the solution of |2x+5|=9
+Because it has an "=" sign it is an absolute equation
+Two "|s" two equations
+2x+5=9
+2x=4
+x=2
+Check=ok
+2x+5=-9
+2x=-14
+x=-7
+Check=ok
+
+2) What is the solution of 1/3|3x-6|-2=5?
+1/3|3x-6|=7
+------------
+      3
+|3x-6|=21
+
+3x-6=21
+3x=27
+x=9
+check=ok
+3x-6=-21
+3x=-15
+x=-5
+check=ok
+
+3) What is the solution of |5x-2|=7x+14
+since absolute value is on the left it can be solved for absolute value
+5x-2=7x+14
+-2x-2=14
+-2x=16
+x=-8
+check=no
+Extraneous
+because variable is on the right that side will change
+DO NOT check variable until you have both of them
+5x-2=-7x-14
+12x-2=-14
+12x=-12
+x=-1
+check=ok
+two answers because two sticks
+If there are constants on the right, it has two solutions
+If there are variables on both sides it is one or no answers
+4) What is the solution of |-2x+9|=3x+10?
+-2x+9=3x+10
+directly to def
+-2x+9=-3x-10
+extraneous
+-2x+9=3x+10
+x=-1/5
+
+Solving Absolute Value Inequalities
+1)Solve for the absolute value
+2)Apply the definition of absolute value.
+3)Solve each inequality
+
+
+
+
+
+
+
+
+
+
+
+
